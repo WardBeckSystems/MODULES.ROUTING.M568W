@@ -1,0 +1,63 @@
+{
+ "drawing": "Modules/ROUTING/M568W/SCHEMATICS/19xx - M568W - 568-06-021.jpg",
+ "version": 1,
+ "trace": "_traces/466de911581298a2.svg",
+ "sheet": {
+  "number": "568-06-021",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1404, 2000],
+  "mm": [303.1, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.2, 0.0, 285.6, 431.8],
+ "outlines": {
+  "line": {"rings": 1219, "straight": {"n": 7971, "mm": 9941.4}, "curved": {"n": 2268, "mm": 2268.9}},
+  "text": {"rings": 341, "straight": {"n": 2161, "mm": 1842.5}, "curved": {"n": 673, "mm": 688.5}}
+ },
+ "circles": [
+  {"c": [80.2, 155.2], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [194.9, 156.2], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [174.3, 105.5], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [16.8, 44.6], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [163.8, 101.9], "r": 0.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [186.5, 135.5, 196.7, 141.8], "w": 10.1, "h": 6.3, "from": "ring"},
+  {"mm": [125.4, 114.9, 131.5, 125.0], "w": 6.0, "h": 10.1, "from": "ring"},
+  {"mm": [185.0, 86.1, 191.5, 106.9], "w": 6.5, "h": 20.7, "from": "ring"},
+  {"mm": [200.4, 75.6, 206.6, 93.9], "w": 6.3, "h": 18.4, "from": "ring"},
+  {"mm": [172.1, 82.7, 178.4, 93.7], "w": 6.3, "h": 11.0, "from": "ring"},
+  {"mm": [172.1, 75.3, 178.3, 80.3], "w": 6.3, "h": 5.0, "from": "ring"},
+  {"mm": [8.6, 71.9, 11.2, 74.1], "w": 2.6, "h": 2.2, "from": "ring"},
+  {"mm": [33.2, 55.1, 36.3, 64.6], "w": 3.0, "h": 9.5, "from": "ring"},
+  {"mm": [199.7, 51.8, 202.3, 54.0], "w": 2.6, "h": 2.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [71.5, 145.9, 76.2, 153.6], "text": "88"},
+   {"mm": [66.3, 128.5, 101.5, 149.1], "text": "Q10 2 2"},
+   {"mm": [168.4, 122.8, 184.4, 132.3], "text": "50 83"},
+   {"mm": [70.6, 84.0, 135.6, 112.3], "text": "BE RL2 **"},
+   {"mm": [149.0, 64.8, 158.7, 72.4], "text": "Iapr"},
+   {"mm": [168.8, 49.7, 182.2, 57.3], "text": "32"},
+   {"mm": [201.0, 52.0, 210.3, 56.8], "text": "32"}
+  ]
+ },
+ "dots": [{"c": [168.1, 117.6], "r": 0.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 568-06-021, size B (assumed) 303 × 432 mm, 1404 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–286 mm across, 0–432 mm up",
+  "- **Outlines:** line 1,219 rings, 7,971 straight (9,941 mm) / 2,268 curved (2,269 mm); text 341 rings, 2,161 straight (1,842 mm) / 673 curved (688 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 3.3 @ (80.2, 155.2), r 3.3 @ (194.9, 156.2), r 1.8 @ (174.3, 105.5), r 1.4 @ (16.8, 44.6)",
+  "- **Closed boxes:** 9",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 10 in 7 lines: 88 · Q10 2 2 · 50 83 · BE RL2 ** · Iapr · 32 · 32"
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/ROUTING/M568W/MECHANICAL/19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC.jpg",
+ "version": 1,
+ "trace": "_traces/910bd4c26e5ca95e.svg",
+ "sheet": {
+  "number": "568-04-021",
+  "title": "Module Front Panel Scnle Disc",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 90,
+  "px": [2000, 1404],
+  "mm": [431.8, 303.1],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.9, 6.3, 429.2, 285.2],
+ "outlines": {
+  "line": {"rings": 189, "straight": {"n": 2231, "mm": 4644.1}, "curved": {"n": 405, "mm": 549.8}},
+  "text": {"rings": 64, "straight": {"n": 431, "mm": 494.4}, "curved": {"n": 133, "mm": 181.7}}
+ },
+ "circles": [
+  {"c": [222.2, 241.1], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [215.8, 272.0], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [216.2, 15.6], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [345.9, 33.5, 423.4, 42.5], "w": 77.5, "h": 9.1, "from": "ring"},
+  {"mm": [389.5, 36.6, 391.9, 39.7], "w": 2.4, "h": 3.1, "from": "ring"},
+  {"mm": [345.9, 23.7, 363.8, 26.6], "w": 17.9, "h": 2.8, "from": "ring"},
+  {"mm": [345.9, 13.8, 355.2, 19.9], "w": 9.3, "h": 6.0, "from": "ring"},
+  {"mm": [373.7, 13.8, 378.9, 19.9], "w": 5.2, "h": 6.0, "from": "ring"},
+  {"mm": [379.3, 13.7, 415.2, 19.9], "w": 35.8, "h": 6.2, "from": "ring"},
+  {"mm": [355.4, 13.8, 373.3, 16.8], "w": 17.9, "h": 3.1, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 568-04-021, size B (assumed) 432 × 303 mm, 2000 × 1404 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 1–429 mm across, 6–285 mm up",
+  "- **Outlines:** line 189 rings, 2,231 straight (4,644 mm) / 405 curved (550 mm); text 64 rings, 431 straight (494 mm) / 133 curved (182 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.2 @ (222.2, 241.1), r 2.1 @ (215.8, 272.0), r 2.1 @ (216.2, 15.6)",
+  "- **Closed boxes:** 7"
+ ]
+}
