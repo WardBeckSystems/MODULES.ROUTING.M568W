@@ -1,16 +1,16 @@
-# M568W · Routing
+# M568W Headphone Amplifier Module · Routing
 
 Ward-Beck Systems M568W. Wiki page: [M568W on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M568W.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 12 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 5 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 0 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 0 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 13 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 4 |
 
 ## Mechanical
@@ -38,6 +38,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 568-02-021 - HEADPHONE AMPLIFIER MODULE SCHEMATIC.kicad_sch](KICAD/19xx%20-%20568-02-021%20-%20HEADPHONE%20AMPLIFIER%20MODULE%20SCHEMATIC.kicad_sch)
 - [19xx - M568W - 568-02-021.kicad_sch](KICAD/19xx%20-%20M568W%20-%20568-02-021.kicad_sch)
 - [M568W.kicad_sym](KICAD/M568W.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
