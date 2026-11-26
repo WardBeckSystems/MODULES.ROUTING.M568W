@@ -19,7 +19,7 @@ Wiki page: [M568W](../../../../PAGES/M568W.md)
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 2.2 @ (222.2, 241.1), r 2.1 @ (215.8, 272.0), r 2.1 @ (216.2, 15.6)
 - **Closed boxes:** 7
 
-Every curve, box, word and wire group: [19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC (traced).json](../MECHANICAL/19xx%20-%20M568W%20-%20568-04-021%20-%20MODULE%20FRONT%20PANEL%20SCNLE%20DISC%20(traced).json) (the CAD file: `19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC (traced).json](../MECHANICAL/19xx%20-%20M568W%20-%20568-04-021%20-%20MODULE%20FRONT%20PANEL%20SCNLE%20DISC%20%28traced%29.json) (the CAD file: `19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC (traced).dxf`).
 
 ## Full text
 

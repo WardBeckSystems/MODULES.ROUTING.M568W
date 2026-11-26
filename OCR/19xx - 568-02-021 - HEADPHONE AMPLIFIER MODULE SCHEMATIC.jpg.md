@@ -32,7 +32,7 @@ Headphone amplifier module schematic, title block at bottom left reading sideway
 - **Words (OCR):** 2 in 2 lines: 32 · lp
 - **Wiring (first pass):** 72 connected wire groups from 823 runs; labelled ends: 147 mm → 32; 106 mm → 32; 18 mm → lp; 17 mm → lp
 
-Every curve, box, word and wire group: [19xx - 568-02-021 - HEADPHONE AMPLIFIER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20568-02-021%20-%20HEADPHONE%20AMPLIFIER%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - 568-02-021 - HEADPHONE AMPLIFIER MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 568-02-021 - HEADPHONE AMPLIFIER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20568-02-021%20-%20HEADPHONE%20AMPLIFIER%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - 568-02-021 - HEADPHONE AMPLIFIER MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 
