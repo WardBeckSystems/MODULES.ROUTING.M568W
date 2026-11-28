@@ -1,5 +1,5 @@
 # 19xx - 568-02-021 - HEADPHONE AMPLIFIER MODULE SCHEMATIC.jpg
-Wiki page: [M568W](../../../../PAGES/M568W.md)
+Wiki page: [M568W](../)
 
 
 - **Year:** unknown (title block (read by eye))

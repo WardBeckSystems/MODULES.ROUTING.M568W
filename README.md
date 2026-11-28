@@ -1,6 +1,6 @@
 # M568W Headphone Amplifier Module · Routing
 
-Ward-Beck Systems M568W. Wiki page: [M568W on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M568W.html)
+Ward-Beck Systems M568W. Wiki page: [M568W on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M568W/)
 
 | Folder | What is in it | Files |
 |---|---|---|

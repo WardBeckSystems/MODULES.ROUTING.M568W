@@ -1,5 +1,5 @@
 # 19xx - M568W - 568-04-021 - MODULE FRONT PANEL SCNLE DISC.jpg
-Wiki page: [M568W](../../../../PAGES/M568W.md)
+Wiki page: [M568W](../)
 
 
 - **Year:** unknown (unknown)
